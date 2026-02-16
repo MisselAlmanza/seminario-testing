@@ -16,7 +16,7 @@
         "minify": "npm run minify:js && npm run minify:css"
     },
     "dependencies": {
-        "lodash": "4.17.4"
+        "lodash": "4.17.23"
     },
     "devDependencies": {
         "clean-css-cli": "^5.6.3",
